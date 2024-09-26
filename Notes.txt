@@ -21,6 +21,10 @@
              - Array => type: object
              - Functions => type : ObjectFunction
 
+       Memory in JavaScript:
+        - stack(Primitive) : we get a copy of variable declarations
+        - Heap (Non-Primitive) : we get orginal value of variable
+
         - Identifiers : set of rules for setting Variable name
         - Variables : used to store values
             - var keyword
