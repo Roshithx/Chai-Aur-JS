@@ -10,7 +10,7 @@ console.log(valueInNumber);
 // "3A3"=> NaN but type is number after conversion
 
 
-let isLoggedIn=0
+let isLoggedIn=""
 let booleanCheck = Boolean(isLoggedIn)
 console.log(booleanCheck);
 
@@ -21,6 +21,7 @@ let someNum=33
 let stringnum=String(someNum)
 console.log(stringnum);
 console.log(typeof stringnum);
+
 
 
 
