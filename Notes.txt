@@ -131,6 +131,7 @@
                 - String Methods 
                     - toLowerCase() : used to convert to lowercase
                     - toUpperCase() : used to convert to uppercase
+                    - replace(): 
                     - startsWith(data) : return boolean based on the string start with the given data
                     - endsWith(data) : return boolean based on the string ends with the given data
                     - trim() : to avoid unwanted white spaces either from start/ending of a string
